@@ -24,7 +24,6 @@ public class Main {
         System.out.println("======================");
 
         printArray(myIntArray);
-3
 
         // Scanner stuff
         int[] scannerIntegers = getIntegers(5);
