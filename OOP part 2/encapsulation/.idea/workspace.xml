@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659b0f0d-6b67-41e9-9e25-020576b314fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Arrays/List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Arrays/List/src/com/kh/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/Arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/out/production/Arrays/com/kh/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/src/com/kh/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Arrays/autoboxing_and_unboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interfaces/src/com/kh/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interfaces/src/com/kh/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interfaces/src/com/kh/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arrays/List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Arrays/List/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -165,7 +159,7 @@
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2177243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22210066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
