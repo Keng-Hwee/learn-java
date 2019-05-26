@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dba7b71-4836-4a6b-b31f-f51e0921af3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Generics/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackagesDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackagesDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackagesDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackagesDemo/src/com/kh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackagesDemo/src/com/kh/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,7 +166,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
