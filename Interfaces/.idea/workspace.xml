@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dba7b71-4836-4a6b-b31f-f51e0921af3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClass/src/com/kh/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../innerclass/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../innerclass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../innerclass/src/com/kh/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../innerclass/src/com/kh/Gearbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/kh/Team.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,13 +166,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27789935" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28446388" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
